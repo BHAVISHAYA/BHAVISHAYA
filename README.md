@@ -1,4 +1,12 @@
-<h1 align="left">Hi 👋! My name is BHAVISHAYA KHANDELWAL.....I'm currently pursuing my B.Tech degree in Computer Science and Engineering from Govt. Engineering College, Ajmer</h1>
+<h1 align="left">
+  👋 Hi, I'm Bhavishaya Khandelwal!
+  <br>
+  <br>
+  🚀 Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer
+<br>
+<br>
+I'm a passionate Software Developer with expertise in Full Stack Web Development and a strong foundation in Data Structures and Algorithms. I love building scalable applications, optimizing code, and solving complex problems.
+</h1>
 
 ###
 
