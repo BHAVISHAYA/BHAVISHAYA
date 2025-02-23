@@ -1,4 +1,4 @@
-<h1 align="left">
+<h3 align="left">
   👋 Hi, I'm Bhavishaya Khandelwal!
   <br>
   <br>
@@ -6,7 +6,15 @@
 <br>
 <br>
 I'm a passionate Software Developer with expertise in Full Stack Web Development and a strong foundation in Data Structures and Algorithms. I love building scalable applications, optimizing code, and solving complex problems.
-</h1>
+<br>
+<br>
+🔥 Technical Skills
+Languages: JavaScript, HTML, CSS
+Frontend: React.js, Tailwind CSS, Bootstrap
+Backend: Node.js, Express.js
+Databases: MongoDB, Firebase
+Other: WebSockets, REST APIs, Git & GitHub
+</h3>
 
 ###
 
