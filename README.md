@@ -2,14 +2,14 @@
   👋 Hi, I'm Bhavishaya Khandelwal!
 </h1>
 
-<p align="left" style="font-size: 20px;">
+<h2 align="left" style="font-size: 20px;">
   🚀 <strong>Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer</strong>  
-</p>
+</h2>
 
-<p align="left" style="font-size: 20px;">
+<h2 align="left" style="font-size: 20px;">
   I'm a passionate <b>Software Developer</b> with expertise in <b>Full Stack Web Development</b> and a strong foundation in <b>Data Structures and Algorithms</b>.  
   I love building scalable applications, optimizing code, and solving complex problems.
-</p>
+</h2>
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## 🎓 Education & Experience  
-- 🎓 **Final Year B.Tech Student** at *Govt. Engineering College, Ajmer*  
+- 🎓 **Final Year B.Tech Student** at Govt. Engineering College, Ajmer  
 - 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
 
 ---
