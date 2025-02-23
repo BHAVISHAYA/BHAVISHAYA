@@ -9,10 +9,15 @@ I'm a passionate Software Developer with expertise in Full Stack Web Development
 <br>
 <br>
 🔥 Technical Skills
+<br>
 Languages: JavaScript, HTML, CSS
+<br>
 Frontend: React.js, Tailwind CSS, Bootstrap
+<br>
 Backend: Node.js, Express.js
-Databases: MongoDB, Firebase
+<br>
+Databases: MongoDB, SQL
+<br>
 Other: WebSockets, REST APIs, Git & GitHub
 </h3>
 
