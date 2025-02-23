@@ -1,71 +1,52 @@
-<h3 align="left">
+<h3 align="center">
   👋 Hi, I'm Bhavishaya Khandelwal!
-  <br>
-  <br>
-  🚀 Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer
-<br>
-<br>
-I'm a passionate Software Developer with expertise in Full Stack Web Development and a strong foundation in Data Structures and Algorithms. I love building scalable applications, optimizing code, and solving complex problems.
-<br>
-<br>
-🔥 Technical Skills
-<br>
-Languages: JavaScript, HTML, CSS
-<br>
-Frontend: React.js, Tailwind CSS, Bootstrap
-<br>
-Backend: Node.js, Express.js
-<br>
-Databases: MongoDB, SQL
-<br>
-Other: WebSockets, REST APIs, Git & GitHub
-<br>
-<br>
-🎓 Education & Internships
-<br>
-Final Year B.Tech Student at Govt. Engineering College, Ajmer
-<br>
-Software Engineer Trainee @ DianApps Jaipur (Node.js Developer)
 </h3>
 
-###
+<p align="center">
+  🚀 <strong>Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer</strong>  
+</p>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/99893459?s=400&u=ccd71337ea9be3ed9b5426140e9e6a69a0989c26&v=4"  />
+<p align="center">
+  I'm a passionate <b>Software Developer</b> with expertise in <b>Full Stack Web Development</b> and a strong foundation in <b>Data Structures and Algorithms</b>.  
+  I love building scalable applications, optimizing code, and solving complex problems.
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+### 🔥 Tech Stack & Tools  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github" height="50" alt="tech stack" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🎓 Education & Experience  
+- 🎓 **Final Year B.Tech Student** at *Govt. Engineering College, Ajmer*  
+- 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🌟 Connect With Me  
+<div align="center">
   <a href="https://www.youtube.com/channel/UCF5SbcxpUXdGjWxMbrVafBQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white" height="35" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/bhavishaya_khandelwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/bhavishaya-khandelwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
 </div>
 
-###
+---
+
+⭐ **"Code with passion, debug with patience, and build for impact!"**  
