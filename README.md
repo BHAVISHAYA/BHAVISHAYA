@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:bhavishaya.khandelwal@example.com">
+  <a href="mailto:bhavishayakhandelwal@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email" />
   </a>
   
