@@ -1,52 +1,64 @@
-<h2 align="left">
+<h1 align="left">
   👋 Hi, I'm Bhavishaya Khandelwal!
-</h2>
+</h1>
 
-<p align="left" style="font-size: 18px;">
+<p align="left" style="font-size: 20px;">
   🚀 <strong>Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer</strong>  
 </p>
 
-<p align="left" style="font-size: 16px;">
+<p align="left" style="font-size: 18px;">
   I'm a passionate <b>Software Developer</b> with expertise in <b>Full Stack Web Development</b> and a strong foundation in <b>Data Structures and Algorithms</b>.  
   I love building scalable applications, optimizing code, and solving complex problems.
 </p>
 
 ---
 
-## 🔥 Tech Stack & Tools  
+# 🔥 Tech Stack & Tools  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github" height="60" alt="tech stack" />
 </div>
 
 ---
 
-## 🎓 Education & Experience  
+# 🎓 Education & Experience  
 - 🎓 **Final Year B.Tech Student** at *Govt. Engineering College, Ajmer*  
 - 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya&theme=radical" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishaya&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavishaya&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 🌟 Connect With Me  
+# 🌟 Connect With Me  
 <div align="left">
+
   <a href="https://www.youtube.com/channel/UCF5SbcxpUXdGjWxMbrVafBQ" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white" height="40" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="50" alt="YouTube" />
   </a>
+  
   <a href="https://www.instagram.com/bhavishaya_khandelwal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="50" alt="Instagram" />
   </a>
+  
   <a href="https://www.linkedin.com/in/bhavishaya-khandelwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="50" alt="LinkedIn" />
   </a>
+  
+  <a href="mailto:bhavishaya.khandelwal@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Email" />
+  </a>
+  
+  <a href="https://github.com/bhavishaya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="50" alt="GitHub" />
+  </a>
+  
 </div>
 
 ---
 
-## ⭐ "Code with passion, debug with patience, and build for impact!"  
+# ⭐ "Code with passion, debug with patience, and build for impact!"  
