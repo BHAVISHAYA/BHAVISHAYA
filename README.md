@@ -19,6 +19,13 @@ Backend: Node.js, Express.js
 Databases: MongoDB, SQL
 <br>
 Other: WebSockets, REST APIs, Git & GitHub
+<br>
+<br>
+🎓 Education & Internships
+<br>
+Final Year B.Tech Student at Govt. Engineering College, Ajmer
+<br>
+Software Engineer Trainee @ DianApps Jaipur (Node.js Developer)
 </h3>
 
 ###
