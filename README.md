@@ -21,8 +21,9 @@
 ---
 
 ## 🎓 Education & Experience  
-- 🎓 **Final Year B.Tech Student** at Govt. Engineering College, Ajmer  
-- 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)  
+- 🎓 **CSE'25 (Govt. Engineering College, Ajmer)**  
+- 💼 **Software Engineer Trainee @ DianApps Jaipur** (*Node.js Developer*)     (Nov 2024 - May 2025)
+- 💼 **Associate Software Engineer @ DianApps Jaipur** (*Node.js Developer*)     (June 2024 - Present)
 
 ---
 
