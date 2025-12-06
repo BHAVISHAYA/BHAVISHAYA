@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left" style="font-size: 20px;">
-  🚀 <strong>Software Engineer Trainee @ DianApps | Problem Solver | Full Stack Developer</strong>  
+  🚀 <strong>Software Engineer @ DianApps | Problem Solver | Backend Developer</strong>  
 </h2>
 
 <h2 align="left" style="font-size: 20px;">
@@ -15,7 +15,7 @@
 
 ## 🔥 Tech Stack & Tools  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,go" height="50" alt="tech stack" />
 </div>
 
 ---
