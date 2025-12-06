@@ -15,7 +15,7 @@
 
 ## 🔥 Tech Stack & Tools  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,go,mysql,postgres,sequelize,c,cpp,postman" height="50" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,mysql,postgres,sequelize,postman" height="50" alt="tech stack" />
 </div>
 
 ---
